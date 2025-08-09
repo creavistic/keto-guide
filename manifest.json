@@ -1,0 +1,12 @@
+{
+  "name": "Keto & Fasting Coach",
+  "short_name": "KetoCoach",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0ea5e9",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    { "src": "https://via.placeholder.com/192.png?text=K", "sizes": "192x192", "type": "image/png" },
+    { "src": "https://via.placeholder.com/512.png?text=K", "sizes": "512x512", "type": "image/png" }
+  ]
+}
